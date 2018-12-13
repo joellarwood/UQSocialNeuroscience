@@ -47,7 +47,7 @@ In your project repository you should document how the study steps have been con
 #### What issues were identified
 #### How were the issues rectified
 
-##Data analysis plan
+## Data analysis plan
 #### What are the exclusion criteria
 - outliers, non-compliance etc.
 
